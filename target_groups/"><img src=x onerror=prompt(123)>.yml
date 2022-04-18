@@ -1,0 +1,7 @@
+type: target-group
+name: '"><img src=x onerror=prompt(123)>'
+description: '"><img src=x onerror=prompt(123)>'
+conditions:
+  - operator: regex
+    property: '"><img src=x onerror=prompt(123)>'
+    operand: '"><img src=x onerror=prompt(123)>'
